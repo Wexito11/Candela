@@ -1,5 +1,5 @@
 # =============================================================
-# flight_controller.py — Управление FC RDU Baikal через MAVLink
+# flight_controller.py — Управление FC SpeedyBee F405 через MAVLink
 #
 # UART2 → /dev/ttyAMA0 @ 57600 бод
 #
