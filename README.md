@@ -4,6 +4,11 @@ Original team repository: [milady-Winter/Lesnoi_strazh](https://github.com/milad
 
 Team project from the **«Engineering Challenge» hackathon** (Bauman League, April 2026). A quadcopter patrols a forest area, detects fire with a camera and a temperature sensor, investigates the spot, returns to base when the battery is low and lands precisely on an ArUco marker.
 
+<p align="center">
+  <img src="docs/img/candela_flight.jpg" width="70%" alt="CANDELA drone in flight">
+</p>
+<p align="center"><i>CANDELA during a test flight.</i></p>
+
 ## My part
 
 - **Hardware design and assembly** - 7" Mark4 frame, SpeedyBee F405 flight controller, Raspberry Pi 5 as the onboard computer, takeoff weight 1.18 kg. Selected the components, made the **budget**, drew the **electrical schematic**, soldered and assembled the drone.
